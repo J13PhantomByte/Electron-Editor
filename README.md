@@ -40,9 +40,9 @@ npx electronmon .
 }
 ```
 
-# Screenshot And Videos
+#  Videos here
 Project here :
 
-![screenshot]()
-![screenshot]()
+![screenshot](https://github.com/Jooselleebew/Electron-Editor/blob/main/video.gif)
+
 
